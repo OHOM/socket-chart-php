@@ -1,0 +1,12 @@
+{
+    "name": "ohom/socket-chart-php",
+    "authors": [
+        {
+            "name": "ohom",
+            "email": "tz422087@163.com"
+        }
+    ],
+    "require": {
+        "workerman/phpsocket.io": "^1.1"
+    }
+}
